@@ -1,0 +1,18 @@
+
+Your project
+Project name
+react-burger-bulider
+Project ID 
+react-burger-bulider-ac0d1
+Project number 
+523695555181
+Default GCP resource location 
+Not yet selected
+Web API Key
+AIzaSyBuovBlcqyfmi0vL9YcpdTqiZ9-MMcidxg
+Public settings
+These settings control instances of your project shown to the public
+Public-facing name 
+project-523695555181
+Support email 
+ttgiang@gmail.com	
